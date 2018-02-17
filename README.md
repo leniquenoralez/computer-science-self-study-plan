@@ -18,13 +18,13 @@ My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m p
 ## Table Of Content
 
 * [Why I Created This Plan](#why-i-created-this-plan)
-* Study Supplement
-  - Improve Your Learning Ability
-  - Improve Note Taking
-  - Maximize Learning Potential
-* Useful Materials/Resources To Have
-* Introduction To Programming
-* Computer Architecture
+* [Study Supplements](#study-supplements)
+  - [Improve My Learning Ability](#improve-my-note-taking-ability)
+  - [Improve Note Taking](#improve-note-taking)
+  - [Maximize Learning Potential](#maximize-learning-potential)
+* [Useful Materials And Resources](#useful-materials-and-resources)
+* [Introduction To Programming](#introduction-to-programming)
+* [Computer Architecture](#computer-architecture)
 * Algorithms & Data Structures
 * Database
 * Networking
@@ -79,7 +79,7 @@ List of blog posts, YouTube videos and online course that I’ll be using to hel
  - [Become A SuperLearner V2.5](https://www.udemy.com/become-a-superlearner-2-speed-reading-memory-accelerated-learning/)
 
 
-## Resources
+## Useful Materials And Resources
  
 List of resources to help in studying.
 
