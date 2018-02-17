@@ -88,7 +88,7 @@ List of resources to help in studying.
 - Evernote
 - Pens (Multicolor)
 - Sketch Book
-- Whiterboard(If Can find a decent affordable one)*
+- Whiterboard(If I Can find a decent affordable one)*
 
 ## Introduction To Programming
 
