@@ -17,7 +17,7 @@ My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m p
 
 ## Table Of Content
 
-* Why I Created This Plan?
+* [Why I Created This Plan?](#why-i-created-this-plan-?)
 * Study Supplement
   - Improve Your Learning Ability
   - Improve Note Taking
