@@ -1,6 +1,7 @@
 Computer Science Self Study Plan
 ============
 
+![Computer Science Image](http://oi67.tinypic.com/98hvzk.jpg)
 
 Why I Created This Plan?
 -------------
