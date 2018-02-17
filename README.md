@@ -19,7 +19,7 @@ My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m p
 
 * [Why I Created This Plan](#why-i-created-this-plan)
 * [Study Supplements](#study-supplements)
-  - [Improve My Learning Ability](#improve-my-note-taking-ability)
+  - [Improve My Learning](#improve-my-learning)
   - [Improve Note Taking](#improve-note-taking)
   - [Maximize Learning Potential](#maximize-learning-potential)
 * [Useful Materials And Resources](#useful-materials-and-resources)
@@ -75,7 +75,7 @@ List of blog posts, YouTube videos and online course that I’ll be using to hel
 - [5 Note Taking Methods(Blog)](https://www.oxfordlearning.com/5-effective-note-taking-methods/)
 - [**Cornell Note Taking Method(Blog)**](http://lsc.cornell.edu/notes.html)
 
-### Maximize Learnig Potential
+### Maximize Learning Potential
  - [Become A SuperLearner V2.5](https://www.udemy.com/become-a-superlearner-2-speed-reading-memory-accelerated-learning/)
 
 
