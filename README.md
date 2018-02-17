@@ -3,7 +3,7 @@ Computer Science Self Study Plan
 
 ![Computer Science Image](http://oi67.tinypic.com/98hvzk.jpg)
 
-Why I Created This Plan?
+Why I Created This Plan
 -------------
 
 I created this plan to help guide me in my persuit of becoming a Software Engineer. My goal is to dive deeper into computer science topics and expand my knowledge to be able on more complex projects. 
@@ -17,7 +17,7 @@ My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m p
 
 ## Table Of Content
 
-* [Why I Created This Plan?](#why-i-created-this-plan-?)
+* [Why I Created This Plan](#why-i-created-this-plan)
 * Study Supplement
   - Improve Your Learning Ability
   - Improve Note Taking
