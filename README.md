@@ -27,35 +27,35 @@ My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m p
 * [Useful Materials And Resources](#useful-materials-and-resources)
 * [Introduction To Programming](#introduction-to-programming)
 * [Computer Architecture](#computer-architecture)
-* Algorithms & Data Structures
-* Database
-* Networking
-* Job Preparation 
-  - Technical Interview Preparation
-    + Books
-    + Technical Interview Preparation Courses 
-    + YouTube Channels/Playlist
-    + Coding Challenge Sites
-    + System Design Interview
-        - YouTube Channels/Playlists 
-        - System Design Blogs
-        - System Design Interview Preparation Courses
-  - Non-Technical Interview Preparation 
-     + Searching For Job
-     + Non-Technical Interview Preparation Book
-     + Salary Negotiation 
-     + Understanding Stock
-     + Resume
-     + Web Presence (LinkedIn, GitHub, Personal Site, Portfolio)
-- Advance Your Knowledge
-     + Operating Sytems
-     + Distributed Systems
-     + Languages & Compilers
-- Software Engineer Resoures
-     + Blogs
-     + Podcast
-     + YouTube Channels/Playlists
-     + Books
+* [Algorithms And Data Structures](#algorithms-and-data-structures)
+* [Database](#database)
+* [Networking](#networking)
+* [Job Preparation](#networking)
+  - [Technical Interview Preparation](#technical-interview-preparation)
+    + [Books](#books)
+    + [Technical Interview Preparation Courses](#technical-interview-preparation-courses) 
+    + [YouTube Channels and Playlists](#youtube-channels-and-playsits)
+    + [Coding Challenge Sites](#coding-challenge-sites)
+    + [System Design Interview](#system-design-interview)
+        - [YouTube Channels and Playlists](#youtube-channels-and-playlist) 
+        - [System Design Blogs](#system-design-blogs)
+        - [System Design Interview Preparation Courses](#system-design-interview-preparation-courses)
+  - [Non Technical Interview Preparation](#non-technical-interview-preparation)
+     + [Searching For A Job](#searching-for-a-job)
+     + [Non Technical Interview Preparation Book](#non-technical-interview-preparation-book)
+     + [Salary Negotiation](#salary-negotiation)
+     + [Understanding Stock](#understanding-stock)
+     + [Resume](#resume)
+     + [Web Presence (LinkedIn, GitHub, Personal Site, Portfolio)](#web-presence)
+- [Advance Your Knowledge](#advance-your-knowledge)
+     + [Operating Sytems](#operating-systems)
+     + [Distributed Systems](#distributed-systems)
+     + [Languages and Compilers](#languages-and-compilers)
+- [Software Engineer Resoures](#software-engineer-resources)
+     + [Blogs](#blogs)
+     + [Podcast](#podcast)
+     + [YouTube Channels](#youtube-channels)
+     + [Books](#book)
  
 =========================================
 
