@@ -117,3 +117,18 @@ Nand To Tetris doesn’t really go in depth but covers a wide array of topics. T
 - Computer Organization and Design - [Buy On Amazon](https://www.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269?pldnSite=1)
 - C Programming Language - [Buy On Amazon](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/ref=sr_1_1?s=books&ie=UTF8&qid=1518908013&sr=1-1&keywords=c+programming+language)
 - The Datacenter as a Computer - [Online PDF](http://inst.eecs.berkeley.edu/~cs61c/resources/WSCBarrosoHolzle.pdf)
+## Algorithms And Data Structures
+
+Improve my problem solving skills and add more tools to my problem solving tool box. 
+
+> The algorithms course code is java so as a prerequisite i’ll Be doing a beginner Java class to learn Java. My main programming languages will be Java and Python, so I’ll also be doing a  python course to refresh my python knowledge.
+
+  - Algorithms - [Buy Book on Amazon](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_3?ie=UTF8&qid=1518930701&sr=8-3&keywords=Algorithms), Video Course [Part 1](https://www.coursera.org/learn/algorithms-part1) & [Part 2](https://www.coursera.org/learn/algorithms-part2)
+  - Complete Java Masterclass - [Udemy Course(**$**)](https://www.udemy.com/java-the-complete-java-developer-course/)
+  - Algorithms and Data Structures in Python - [Udemy Cousrse(**$**)](https://www.udemy.com/algorithms-and-data-structures-in-python/)
+  - Complete Python Bootcamp - [Udemy Course(**$**)](https://www.udemy.com/complete-python-bootcamp/)
+  - Grokking Algorithms - [Buy Book On Amazon](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=pd_sim_14_4?_encoding=UTF8&pd_rd_i=1617292230&pd_rd_r=ZW1CDRZBHKF2KNVRWJPZ&pd_rd_w=C7bgd&pd_rd_wg=6QYlm&psc=1&refRID=ZW1CDRZBHKF2KNVRWJPZ)
+
+> *I’ll be using the whiteboard/sketchbook to solve algorithmic problems. To help me to visualize my solutions and help to prep for technical interview*
+
+
