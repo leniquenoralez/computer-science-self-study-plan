@@ -6,7 +6,7 @@ Computer Science Self Study Plan
 Why I Created This Plan
 -------------
 
-I created this plan to help guide me in my pursuit of becoming a Software Engineer. My goal is to dive deeper into computer science topics and expand my knowledge to be able on more complex projects. 
+I created this plan to help guide me in my pursuit of becoming a Software Engineer. My goal is to dive deeper into computer science topics and expand my knowledge to be able to work on more complex projects. 
 
 I want to increase my chance of interviewing at top companies (Facebook, Google, Amazon, Microsoft etc.). This guide will help me to remain motivated and focus. It will also stand as a form of accountability, since I’ll be documenting my progress here.
 
