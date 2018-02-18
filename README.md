@@ -87,8 +87,8 @@ List of resources to help in studying.
 
 - Notebooks
 - Index cards
-- Trello
-- Evernote
+- [Trello](https://trello.com/home)
+- [Evernote](https://evernote.com)
 - Pens (Multicolor)
 - Sketch Book
 - Whiterboard(If I Can find a decent affordable one)*
