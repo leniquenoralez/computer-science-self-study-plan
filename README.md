@@ -189,7 +189,7 @@ Books and Resources to help in job search process.
    * [This Is What A GOOD Resume Should Look Like](https://www.careercup.com/resume)
    *  [An opinionated guide to writing developer resumes in 2017](http://bit.ly/2obHyHQ)
 
-##### Online Presence
+##### Online Presence Tips
    * [A Software Engineer’s One-Page Portfolio](http://bit.ly/2EDNYpc)
    * [LinkedIn Profile Makeover for Developers](http://bit.ly/2EDotZ1)
    * [How to Build a Killer LinkedIn Profile](http://bit.ly/2BEsDNR)
