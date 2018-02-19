@@ -121,7 +121,7 @@ Nand To Tetris doesn’t really go in depth but covers a wide array of topics. T
 
 Improve my problem solving skills and add more tools to my problem solving tool box. 
 
-> The algorithms course code is java so as a prerequisite i’ll Be doing a beginner Java class to learn Java. My main programming languages will be Java and Python, so I’ll also be doing a  python course to refresh my python knowledge.
+> The code for Algorithms 1 & 2 are in Java so as a prerequisite I’ll Be doing a beginner Java class to learn Java. My main programming languages will be Java and Python, so I’ll also be doing a python course to refresh my python knowledge.
 
   - Algorithms - [Buy Book on Amazon](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_3?ie=UTF8&qid=1518930701&sr=8-3&keywords=Algorithms), Video Course [Part 1](https://www.coursera.org/learn/algorithms-part1) & [Part 2](https://www.coursera.org/learn/algorithms-part2)
   - Complete Java Masterclass - [Udemy Course(**$**)](https://www.udemy.com/java-the-complete-java-developer-course/)
