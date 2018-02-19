@@ -43,11 +43,6 @@ My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m p
      + [Operating Sytems](#operating-systems)
      + [Distributed Systems](#distributed-systems)
      + [Languages and Compilers](#languages-and-compilers)
-- [Software Engineer Resoures](#software-engineer-resources)
-     + [Blogs](#blogs)
-     + [Podcast](#podcast)
-     + [YouTube Channels](#youtube-channels)
-     + [Books](#book)
  
 =========================================
 
