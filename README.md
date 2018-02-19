@@ -35,7 +35,7 @@ My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m p
     + [System Design Interview Preparation](#system-design-interview-preparation)
     + [Coding Challenge Site](#coding-challenge-site)
   - [Non Technical Preparation](#non-technical-preparation)
-     + [Salary Negotiation](#salary-negotiation)
+     + [Salary Negotiation Tips](#salary-negotiation-tips)
      + [Understanding Stock Options](#understanding-stock-options)
      + [Resume Tips](#resume-tips)
      + [Online Presence Tips](#online-presence-tip)
