@@ -40,7 +40,7 @@ My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m p
      + [Resume Tips](#resume-tips)
      + [Online Presence Tips](#online-presence-tips)
 - [Advance Your Knowledge](#advance-your-knowledge)
-     + [Operating Sytems](#operating-systems)
+     + [Operating Systems](#operating-systems)
      + [Distributed Systems](#distributed-systems)
      + [Languages and Compilers](#languages-and-compilers)
  
@@ -192,7 +192,7 @@ Books and Resources to help in job search process.
 
 ## Advance Your Knowledge
 
-### Operating Sytems
+### Operating Systems
    * [Operating Sytems by Gate Lectures ](http://bit.ly/2BDbPGQ)
    * [UC Berkeley Computer Science 162 - Fall 2010](http://bit.ly/2BAAjAF) 
    * [CS162 Lecture Notes](http://bit.ly/2HtvtWn)
