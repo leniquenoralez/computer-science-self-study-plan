@@ -190,6 +190,31 @@ Books and Resources to help in job search process.
    * [How to Build a Killer LinkedIn Profile](http://bit.ly/2BEsDNR)
    * [9 LinkedIn Profile Tips for New Developers](http://bit.ly/2eDes0q)
 
+##Advance Your Knowledge
+
+### Operating Sytems
+   * [Operating Sytems by Gate Lectures ](http://bit.ly/2BDbPGQ)
+   * [UC Berkeley Computer Science 162 - Fall 2010](http://bit.ly/2BAAjAF) 
+   * [CS162 Lecture Notes](http://bit.ly/2HtvtWn)
+   * [Operating System Concept](http://amzn.to/2EOJFuB)
+   * [Modern Operating Systems](http://amzn.to/2CvAERS)
+   * [Operating Systems: Three Easy Pieces(Online PDF)](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+   * [Operating Systems: Principles and Practice](http://amzn.to/2ommQEq)
+
+### Distributed Systems    
+   * [Distribute Sytems Definition](https://m.youtube.com/watch?v=nH9uwoyczFc)
+   * [Introduction to Distributed System Design](http://bit.ly/13KaEko)
+   * [Distributed Systems In One Lesson](http://bit.ly/2sJA3MU)
+   * [Distributed Systems - Fast Tech Skills](http://bit.ly/2EDAwBw)
+   * [What is a distributed system?](http://bit.ly/2EDP5ZX)
+   * Distributed Sytems - [Online PDF](http://bit.ly/2wQshO0), [Buy Book On Amazon](http://amzn.to/2sAcoOE)
+
+### Languages and Compilers
+   * [Language Implementation Patterns(Buy On Amazon)](http://amzn.to/2rLovbk)
+   * [Compilers: Principles, Techniques, and Tools(Buy On Amazon)](http://amzn.to/2HrtXE6)
+   * [Compilers(Stanford MOOC)](http://stanford.io/1qv2hVh)
+
+
 
 
 
