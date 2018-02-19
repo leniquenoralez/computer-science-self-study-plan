@@ -190,7 +190,7 @@ Books and Resources to help in job search process.
    * [How to Build a Killer LinkedIn Profile](http://bit.ly/2BEsDNR)
    * [9 LinkedIn Profile Tips for New Developers](http://bit.ly/2eDes0q)
 
-##Advance Your Knowledge
+## Advance Your Knowledge
 
 ### Operating Sytems
    * [Operating Sytems by Gate Lectures ](http://bit.ly/2BDbPGQ)
