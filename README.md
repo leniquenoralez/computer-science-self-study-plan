@@ -38,7 +38,7 @@ My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m p
      + [Salary Negotiation Tips](#salary-negotiation-tips)
      + [Understanding Stock Options](#understanding-stock-options)
      + [Resume Tips](#resume-tips)
-     + [Online Presence Tips](#online-presence-tip)
+     + [Online Presence Tips](#online-presence-tips)
 - [Advance Your Knowledge](#advance-your-knowledge)
      + [Operating Sytems](#operating-systems)
      + [Distributed Systems](#distributed-systems)
