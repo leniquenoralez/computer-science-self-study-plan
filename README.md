@@ -25,6 +25,7 @@ My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m p
   - [Improve Note Taking](#improve-note-taking)
   - [Maximize Learning Potential](#maximize-learning-potential)
 * [Useful Materials And Resources](#useful-materials-and-resources)
+* [Companies I Would like to Work With](#companies-i-would-like-to-work-with)
 * [Introduction To Programming](#introduction-to-programming)
 * [Computer Architecture](#computer-architecture)
 * [Algorithms And Data Structures](#algorithms-and-data-structures)
@@ -79,6 +80,28 @@ List of resources to help in studying.
 - Pens (Multicolor)
 - Sketch Book
 - Whiterboard(If I Can find a decent affordable one)*
+
+## Companies I Would like to Work With
+
+* [Spotify](https://www.spotifyjobs.com)
+* [Soundcloud](https://soundcloud.com/jobs)
+* [Serato](https://serato.com/jobs)
+* [Google](http://bit.ly/2CwrdBJ)
+* [Facebook](https://www.facebook.com/careers/)
+* [Digital Ocean](https://www.digitalocean.com/company/careers/)
+* [Hulu](https://www.hulu.com/jobs)
+* [Netflix](https://jobs.netflix.com)
+* [GitHub](https://github.com/about/careers)
+* [GitLab](https://about.gitlab.com/jobs/)
+* [Mozilla](https://careers.mozilla.org)
+* [Roku](https://www.roku.com/about/jobs)
+* [SeatGeek](https://seatgeek.com/jobs)
+* [ESPN](https://jobs.espncareers.com/technology)
+* [Shopify](https://www.shopify.com/careers)
+* [Twitter](https://careers.twitter.com/en.html)
+* [Unity](https://careers.unity.com)
+* [Snapchat](https://www.snap.com/en-US/jobs/)
+* [Instagram](https://www.instagram.com/about/jobs/) 
 
 ## Introduction To Programming
 
