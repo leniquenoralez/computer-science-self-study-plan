@@ -30,7 +30,7 @@ My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m p
 * [Algorithms And Data Structures](#algorithms-and-data-structures)
 * [Database](#database)
 * [Networking](#networking)
-* [Job Preparation](#networking)
+* [Job Search Preparation](#job-search-preparation)
   - [Technical Interview Preparation](#technical-interview-preparation)
     + [Books](#books)
     + [Technical Interview Preparation Courses](#technical-interview-preparation-courses) 
@@ -40,13 +40,12 @@ My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m p
         - [YouTube Channels and Playlists](#youtube-channels-and-playlist) 
         - [System Design Blogs](#system-design-blogs)
         - [System Design Interview Preparation Courses](#system-design-interview-preparation-courses)
-  - [Non Technical Interview Preparation](#non-technical-interview-preparation)
-     + [Searching For A Job](#searching-for-a-job)
-     + [Non Technical Interview Preparation Book](#non-technical-interview-preparation-book)
+  - [Non Technical Preparation](#non-technical-preparation)
+     
      + [Salary Negotiation](#salary-negotiation)
-     + [Understanding Stock](#understanding-stock)
-     + [Resume](#resume)
-     + [Web Presence (LinkedIn, GitHub, Personal Site, Portfolio)](#web-presence)
+     + [Understanding Stock Options](#understanding-stock-options)
+     + [Resume Tips](#resume-tips)
+     + [Online Presence Tips](#online-presence-tip)
 - [Advance Your Knowledge](#advance-your-knowledge)
      + [Operating Sytems](#operating-systems)
      + [Distributed Systems](#distributed-systems)
@@ -148,6 +147,57 @@ Majority of software are on a web server.Understand important terms and concepts
   - Introduction To Networking - [MOOC Stanford](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
   - Computer Networking: A Top-Down Approach - [Buy Book On Amazon](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/ref=sr_1_1?ie=UTF8&qid=1518935078&sr=8-1&keywords=computer+networking)
   - Computer Networks - [YouTube Playlist](https://m.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
+## Job Search Preparation 
+
+Books and Resources to help in job search process.
+
+### Technical Interview Preparation 
+   * Cracking the Coding Interview - [Buy Book On Amazon](http://amzn.to/2ob0rKF)
+   * Programming Interviews Exposed - [Buy Book On Amazon](http://amzn.to/2HqV56a)
+   * Elements of Programming Interviews in Python - [Buy Book On Amazon](http://amzn.to/2ECxJg6)
+   * Elements of Programming Interviews in Java - [Buy Book On Amazon](http://amzn.to/2CvtNYz)
+   * Coder Rust 2.0 - [Paid Course **$**](http://bit.ly/1PMUTwk)
+   * Interview Cake - [Paid Course **$**](http://bit.ly/1rsc2kf)
+   * Hired In Tech - [Free Course](https://www.hiredintech.com)
+   * Python for Data Structures, Algorithms, and Interviews - [Udemy Course **$**](http://bit.ly/2C7ILrU)
+   * Geeks For Geeks - [YouTube Channel](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ)
+   * Tushar Roy - [YouTube Channel](https://www.youtube.com/user/tusharroy2525)
+
+##### System Design Interview Preperation 
+     
+   - Grokking System Design - [Paid Course **$**](https://www.educative.io/collection/5668639101419520/5649050225344512)
+   - System Design Tutorials- [YouTube Playlist](https://www.youtube.com/playlist?list=PL9xZ0ooLLYdYhosXzSLYOjIHVQLqtK8nX)
+   - Gainlo Sytem Design Tutorials- [List Of Blog Posts](http://bit.ly/2HwbXbF)
+   - [Top 10 System Design Interview Questions for Software Engineers](http://bit.ly/2hgv0KW)
+
+##### Coding Challenge Site
+   - [Hacker Rank](https://www.hackerrank.com/)
+   - [Leet Code](https://leetcode.com/)
+   - [Code Wars](https://www.hackerrank.com/)
+   - [Code Fights](https://leetcode.com/)
+   - [Geek For Geeks(Algorithms Tutorials & Solutions)](https://www.hackerrank.com/)
+
+### Non Technical Preparation 
+   * [How to Ace a Non-Technical Interview(Blog Post)](http://bit.ly/2GtYU9A)
+   * Get That Job! - [Buy Book On Amazon](http://amzn.to/2EDCbLE)
+   * [Easy Application](https://github.com/j-delaney/easy-application)
+
+##### Salary Negotiation Tips
+   * [Ten Rules for Negotiating a Job Offer](http://bit.ly/2mbLuGI)
+   * [How Not to Bomb Your Offer Negotiation](http://bit.ly/2Ht8hHG)
+   * [The Ultimate Guide To Salary Negotiation For Software Developers](http://bit.ly/2HuRwM8)
+
+### Understanding Stock Options
+##### Resume Tips
+   * [This Is What A GOOD Resume Should Look Like](https://www.careercup.com/resume)
+   *  [An opinionated guide to writing developer resumes in 2017](http://bit.ly/2obHyHQ)
+
+##### Online Presence
+   * [A Software Engineer’s One-Page Portfolio](http://bit.ly/2EDNYpc)
+   * [LinkedIn Profile Makeover for Developers](http://bit.ly/2EDotZ1)
+   * [How to Build a Killer LinkedIn Profile](http://bit.ly/2BEsDNR)
+   * [9 LinkedIn Profile Tips for New Developers](http://bit.ly/2eDes0q)
+
 
 
 
