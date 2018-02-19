@@ -160,10 +160,10 @@ Books and Resources to help in job search process.
 
 ##### Coding Challenge Site
    - [Hacker Rank](https://www.hackerrank.com/)
-   - [Leet Code](https://leetcode.com/)
-   - [Code Wars](https://www.hackerrank.com/)
-   - [Code Fights](https://leetcode.com/)
-   - [Geek For Geeks(Algorithms Tutorials & Solutions)](https://www.hackerrank.com/)
+   - [Leet Code](https://www.leetcode.com/)
+   - [Code Wars](https://www.codewars.com/)
+   - [Code Fights](https://www.codefights.com/)
+   - [Geek For Geeks(Algorithms Tutorials & Solutions)](https://www.geeksforgeeks.org)
 
 ### Non Technical Preparation 
    * [How to Ace a Non-Technical Interview(Blog Post)](http://bit.ly/2GtYU9A)
