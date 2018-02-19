@@ -180,7 +180,11 @@ Books and Resources to help in job search process.
    * [How Not to Bomb Your Offer Negotiation](http://bit.ly/2Ht8hHG)
    * [The Ultimate Guide To Salary Negotiation For Software Developers](http://bit.ly/2HuRwM8)
 
-### Understanding Stock Options
+##### Understanding Stock Options
+   * [Tips for Evaluating Stock Options in a Job Offer](http://bit.ly/2HtRGU1)
+   * [How to understand stock options in your job offer](http://mnstr.me/2fX8Mxe)
+   * [How do stock options work for Google employees?(Quora Question)](http://bit.ly/2Gq6KB2)
+   
 ##### Resume Tips
    * [This Is What A GOOD Resume Should Look Like](https://www.careercup.com/resume)
    *  [An opinionated guide to writing developer resumes in 2017](http://bit.ly/2obHyHQ)
