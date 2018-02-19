@@ -125,7 +125,7 @@ Improve my problem solving skills and add more tools to my problem solving tool 
 
   - Algorithms - [Buy Book on Amazon](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_3?ie=UTF8&qid=1518930701&sr=8-3&keywords=Algorithms), Video Course [Part 1](https://www.coursera.org/learn/algorithms-part1) & [Part 2](https://www.coursera.org/learn/algorithms-part2)
   - Complete Java Masterclass - [Udemy Course(**$**)](https://www.udemy.com/java-the-complete-java-developer-course/)
-  - Algorithms and Data Structures in Python - [Udemy Cousrse(**$**)](https://www.udemy.com/algorithms-and-data-structures-in-python/)
+  - Data Structures and Algorithms in Python - [Buy Book On Amazon](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275)
   - Complete Python Bootcamp - [Udemy Course(**$**)](https://www.udemy.com/complete-python-bootcamp/)
   - Grokking Algorithms - [Buy Book On Amazon](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=pd_sim_14_4?_encoding=UTF8&pd_rd_i=1617292230&pd_rd_r=ZW1CDRZBHKF2KNVRWJPZ&pd_rd_w=C7bgd&pd_rd_wg=6QYlm&psc=1&refRID=ZW1CDRZBHKF2KNVRWJPZ)
 
