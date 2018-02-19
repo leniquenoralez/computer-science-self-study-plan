@@ -32,7 +32,7 @@ My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m p
 * [Networking](#networking)
 * [Job Search Preparation](#job-search-preparation)
   - [Technical Interview Preparation](#technical-interview-preparation)
-    + [System Design Interview Preparation](#system-design-interview-preparation)
+    + [System Design Interview Preparation](#System Design Interview Preperation)
     + [Coding Challenge Site](#coding-challenge-site)
   - [Non Technical Preparation](#non-technical-preparation)
      + [Salary Negotiation Tips](#salary-negotiation-tips)
@@ -151,7 +151,7 @@ Books and Resources to help in job search process.
    * Geeks For Geeks - [YouTube Channel](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ)
    * Tushar Roy - [YouTube Channel](https://www.youtube.com/user/tusharroy2525)
 
-##### System Design Interview Preperation 
+##### System Design Interview Preparation 
      
    - Grokking System Design - [Paid Course **$**](https://www.educative.io/collection/5668639101419520/5649050225344512)
    - System Design Tutorials- [YouTube Playlist](https://www.youtube.com/playlist?list=PL9xZ0ooLLYdYhosXzSLYOjIHVQLqtK8nX)
