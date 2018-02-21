@@ -42,7 +42,7 @@ My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m p
      + [Understanding Stock Options](#understanding-stock-options)
      + [Resume Tips](#resume-tips)
      + [Online Presence Tips](#online-presence-tips)
-- [Advance My Knowledge](#advance-My-knowledge)
+- [Advance My Knowledge](#advance-my-knowledge)
      + [Operating Systems](#operating-systems)
      + [Distributed Systems](#distributed-systems)
      + [Languages and Compilers](#languages-and-compilers)
