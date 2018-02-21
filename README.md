@@ -50,7 +50,7 @@ My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m p
 
 ## Study Supplements
 
-List of blog posts, YouTube videos and online course that I’ll be using to help better achieve my goal.
+List of blog posts, YouTube videos and online course that I’ll be using to improve my study.
 
 ### Improve My Learning
 - [Feynman Technique(Blog)](https://collegeinfogeek.com/feynman-technique/)
