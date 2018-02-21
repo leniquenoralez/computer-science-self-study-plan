@@ -42,7 +42,7 @@ My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m p
      + [Understanding Stock Options](#understanding-stock-options)
      + [Resume Tips](#resume-tips)
      + [Online Presence Tips](#online-presence-tips)
-- [Advance Your Knowledge](#advance-your-knowledge)
+- [Advance My Knowledge](#advance-My-knowledge)
      + [Operating Systems](#operating-systems)
      + [Distributed Systems](#distributed-systems)
      + [Languages and Compilers](#languages-and-compilers)
@@ -215,7 +215,7 @@ Books and Resources to help in job search process.
    * [How to Build a Killer LinkedIn Profile](http://bit.ly/2BEsDNR)
    * [9 LinkedIn Profile Tips for New Developers](http://bit.ly/2eDes0q)
 
-## Advance Your Knowledge
+## Advance My Knowledge
 
 ### Operating Systems
    * [Operating Sytems by Gate Lectures ](http://bit.ly/2BDbPGQ)
