@@ -17,7 +17,8 @@ My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m p
 > “Plan Your Work And Work Your Plan.” - Napoleon Hill
 ## My Current Progress
  ![Generic badge](https://img.shields.io/badge/Progress-0%25-32CD32.svg)
- [Detailed Progress](https://docs.google.com/spreadsheets/d/1HmN18NEuFJ1vD0LpfckzK1SGa0NrOGfv5HEPeUwleoM)
+ 
+* [Detailed Progress](https://docs.google.com/spreadsheets/d/1HmN18NEuFJ1vD0LpfckzK1SGa0NrOGfv5HEPeUwleoM)
  
 ## Table Of Content
 
