@@ -15,11 +15,13 @@ My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m p
 > *Disclaimer:This plan is highly opinionated. I chose the books and resources based on my personal research and experience. I chose what I felt would be most beneficial to my study and suit my learning style the most. This plan may or may not work for someone else. The main thing  when doing a self study is to do your research pick something, be consistent and making changes as need. Just my opinion, you do what best suits you. Feel free to adopt this plan or take parts of it for your personal study.*
 
 > “Plan Your Work And Work Your Plan.” - Napoleon Hill
-
-
+## My Current Progress
+ ![Progress](http://progressed.io/bar/0)
+ 
 ## Table Of Content
 
 * [Why I Created This Plan](#why-i-created-this-plan)
+* [My Current Progress](#my-current-progress)
 * [Study Supplements](#study-supplements)
   - [Improve My Learning](#improve-my-learning)
   - [Improve Note Taking](#improve-note-taking)
