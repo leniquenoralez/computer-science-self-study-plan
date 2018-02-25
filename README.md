@@ -149,7 +149,7 @@ Improve my problem solving skills and add more tools to my problem solving tool 
 ## Database
 Learn  how to create databases to store and manipulate data.
 
-  - UC Berkeley CS 186 - [YouTube Playlist](https://m.youtube.com/playlist?list=PLhMnuBfGeCDPtyC9kUf_hG_QwjYzZ0Am1) , [Internet Archive](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
+  - UC Berkeley CS 186 - [YouTube Playlist](https://m.youtube.com/playlist?list=PLhMnuBfGeCDPtyC9kUf_hG_QwjYzZ0Am1) , [Internet Archive](https://archive.org/details/UCBerkeley_Course_Computer_Science_186), [Lecture Notes](https://sites.google.com/site/cs186spring2015/)
   - The Complete Database Design & Modeling Beginners Tutorial - [Udemy Course(**$**)](https://www.udemy.com/the-complete-database-modeling-and-design-beginners-tutorial/)
   - The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - [Udemy Course(**$**)](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
   - SQL - MySQL for Data Analytics and Business Intelligence - [Udemy Course(**$**)](https://www.udemy.com/sql-mysql-for-data-analytics-and-business-intelligence/)
