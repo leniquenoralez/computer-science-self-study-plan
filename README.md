@@ -121,7 +121,7 @@ Understnad how a computer works on a lower level.
 
 - The Elements of Computing Systems: Building a Modern Computer from First Principles - [Purchase On Amazon](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=sr_1_1/136-8885206-6472227?ie=UTF8&qid=1518907200&sr=8-1&keywords=the+elements+of+computing+systems), [Online PDF](http://www.nand2tetris.org)
 
-- Nand To Tetris - [I](https://www.coursera.org/learn/build-a-computer), [II](https://www.coursera.org/learn/nand2tetris2)
+- Nand To Tetris - [Part I](https://www.coursera.org/learn/build-a-computer), [Part II](https://www.coursera.org/learn/nand2tetris2)
 
 
 Nand To Tetris doesn’t really go in depth but covers a wide range of topics. To get depth use the following resources.
