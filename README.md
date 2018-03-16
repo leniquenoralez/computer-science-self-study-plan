@@ -111,7 +111,7 @@ List of resources to help in studying.
 
 Learn beneficial programming concepts and build a strong programming foundation.
 
-- Computer Science 61A - [Youtube Spring 2011](https://m.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9) , [Archive.org Spring 2011](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8), [Fall 2017](http://inst.eecs.berkeley.edu/~cs61a/fa17/)
+- [CS61A: Structure and Interpretation of Computer Programs - Fall 2017](http://inst.eecs.berkeley.edu/~cs61a/fa17/)
 
 - Structure And Interpretation Of Computer Programs - [Purchase On Amazon](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871) , [Online PDF](https://mitpress.mit.edu/sicp/full-text/book/book.html) 
 
