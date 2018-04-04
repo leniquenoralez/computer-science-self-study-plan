@@ -11,7 +11,6 @@ Computer Science Self Study Plan
  
 ## Table Of Content
 
-* [Why I Created This Plan](#why-i-created-this-plan)
 * [My Current Progress](#my-current-progress)
 * [Study Supplements](#study-supplements)
   - [Improve My Learning](#improve-my-learning)
@@ -112,9 +111,6 @@ Understnad how a computer works on a lower level.
 
 - Nand To Tetris - [Part I](https://www.coursera.org/learn/build-a-computer), [Part II](https://www.coursera.org/learn/nand2tetris2)
 
-
-Nand To Tetris doesn’t really go in depth but covers a wide range of topics. To get depth use the following resources.
-
 - Great Ideas in Computer Architecture - [Lecture Notes](http://inst.eecs.berkeley.edu/~cs61c/sp15/), [Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_) 
 
 - Computer Organization and Design - [Buy On Amazon](https://www.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269?pldnSite=1)
@@ -124,16 +120,11 @@ Nand To Tetris doesn’t really go in depth but covers a wide range of topics. T
 
 Improve my problem solving skills and add more tools to my problem solving tool box. 
 
-> The code for Algorithms 1 & 2 are in Java so as a prerequisite I’ll Be doing a beginner Java class to learn Java. My main programming languages will be Java and Python, so I’ll also be doing a python course to refresh my python knowledge.
-
   - Algorithms - [Buy Book on Amazon](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_3?ie=UTF8&qid=1518930701&sr=8-3&keywords=Algorithms), Video Course [Part 1](https://www.coursera.org/learn/algorithms-part1) & [Part 2](https://www.coursera.org/learn/algorithms-part2)
   - Complete Java Masterclass - [Udemy Course(**$**)](https://www.udemy.com/java-the-complete-java-developer-course/)
   - Data Structures and Algorithms in Python - [Buy Book On Amazon](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275)
   - Complete Python Bootcamp - [Udemy Course(**$**)](https://www.udemy.com/complete-python-bootcamp/)
   - Grokking Algorithms - [Buy Book On Amazon](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=pd_sim_14_4?_encoding=UTF8&pd_rd_i=1617292230&pd_rd_r=ZW1CDRZBHKF2KNVRWJPZ&pd_rd_w=C7bgd&pd_rd_wg=6QYlm&psc=1&refRID=ZW1CDRZBHKF2KNVRWJPZ)
-
-> *I’ll be using the whiteboard/sketchbook to solve algorithmic problems. To help me to visualize my solutions and help to prep for technical interview*
-
 
 ## Database
 Learn  how to create databases to store and manipulate data.
@@ -145,8 +136,6 @@ Learn  how to create databases to store and manipulate data.
   - The Complete Developers Guide to MongoDB - [Udemy Course(**$**)](https://www.udemy.com/the-complete-developers-guide-to-mongodb/)
   
 ## Networking
-
-Majority of software are on a web server.Understand important terms and concepts to create better software.
 
   - Introduction To Networking - [MOOC Stanford](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
   - Computer Networking: A Top-Down Approach - [Buy Book On Amazon](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/ref=sr_1_1?ie=UTF8&qid=1518935078&sr=8-1&keywords=computer+networking)
