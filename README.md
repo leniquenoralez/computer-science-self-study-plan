@@ -3,17 +3,6 @@ Computer Science Self Study Plan
 
 ![Computer Science Image](http://oi67.tinypic.com/98hvzk.jpg)
 
-Why I Created This Plan
--------------
-
-I created this plan to help guide me in my pursuit of becoming a Software Engineer. My goal is to dive deeper into computer science topics and expand my knowledge to be able to work on more complex projects. 
-
-I want to increase my chance of interviewing at top companies (Facebook, Google, Amazon, Microsoft etc.). This guide will help me to remain motivated and focus. It will also stand as a form of accountability, since I’ll be documenting my progress here.
-
-My goal is to go from a Front-End Web Developer to a Software Engineer.  I’m publishing this here so that anyone who finds it can gain a little motivation and inspiration, and to share my progress.
-
-> *Disclaimer:This plan is highly opinionated. I chose the books and resources based on my personal research and experience. I chose what I felt would be most beneficial to my study and suit my learning style the most. This plan may or may not work for someone else. The main thing  when doing a self study is to do your research pick something, be consistent and making changes as need. Just my opinion, you do what best suits you. Feel free to adopt this plan or take parts of it for your personal study.*
-
 > “Plan Your Work And Work Your Plan.” - Napoleon Hill
 ## My Current Progress
  ![Generic badge](https://img.shields.io/badge/Progress-0%25-32CD32.svg)
