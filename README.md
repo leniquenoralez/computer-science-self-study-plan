@@ -118,7 +118,7 @@ Understnad how a computer works on a lower level.
 - The Datacenter as a Computer - [Online PDF](http://inst.eecs.berkeley.edu/~cs61c/resources/WSCBarrosoHolzle.pdf)
 ## Algorithms And Data Structures
 
-Improve my problem solving skills and add more tools to my problem solving tool box. 
+Improve problem solving skills and add more "tools" to roblem solving tool box. 
 
   - Algorithms - [Buy Book on Amazon](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_3?ie=UTF8&qid=1518930701&sr=8-3&keywords=Algorithms), Video Course [Part 1](https://www.coursera.org/learn/algorithms-part1) & [Part 2](https://www.coursera.org/learn/algorithms-part2)
   - Complete Java Masterclass - [Udemy Course(**$**)](https://www.udemy.com/java-the-complete-java-developer-course/)
