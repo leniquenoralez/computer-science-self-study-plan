@@ -5,7 +5,7 @@ Computer Science Self Study Plan
 
 > “Plan Your Work And Work Your Plan.” - Napoleon Hill
 ## My Current Progress
- ![Generic badge](https://img.shields.io/badge/Progress-0%25-32CD32.svg)
+ ![Generic badge](https://img.shields.io/badge/Progress-2%25-32CD32.svg)
  
 * [Detailed Progress](https://docs.google.com/spreadsheets/d/1HmN18NEuFJ1vD0LpfckzK1SGa0NrOGfv5HEPeUwleoM)
  
