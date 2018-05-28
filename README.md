@@ -97,11 +97,12 @@ List of resources to help in studying.
 
 ## Introduction To Programming
 
-Learn beneficial programming concepts and build a strong programming foundation.
+Learn fundamental programming concepts and build a strong programming foundation.
 
 - [CS61A: Structure and Interpretation of Computer Programs - Fall 2017](http://inst.eecs.berkeley.edu/~cs61a/fa17/)
 
-- Structure And Interpretation Of Computer Programs - [Purchase On Amazon](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871) , [Online PDF](https://mitpress.mit.edu/sicp/full-text/book/book.html) 
+- Composing Programs - [Free Online Book](http://composingprograms.com/)
+> This version of CS61A doesn't use the SICP book but it uses the online book Composing Programs wich is heavily based on SICP. It's a more "modern" version of SICP.
 
 ## Computer Architecture
 
