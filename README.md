@@ -9,9 +9,9 @@ A guide to self learn the fundamentals of Computer Science
 
 ## My Current Progress
  ![Generic badge](https://img.shields.io/badge/Progress-12%25-32CD32.svg)
- 
+
 * [Detailed Progress](https://docs.google.com/spreadsheets/d/1HmN18NEuFJ1vD0LpfckzK1SGa0NrOGfv5HEPeUwleoM)
- 
+
 ## Table Of Content
 
 * [My Current Progress](#my-current-progress)
@@ -39,7 +39,7 @@ A guide to self learn the fundamentals of Computer Science
      + [Operating Systems](#operating-systems)
      + [Distributed Systems](#distributed-systems)
      + [Languages and Compilers](#languages-and-compilers)
- 
+
 =========================================
 
 
@@ -48,11 +48,11 @@ A guide to self learn the fundamentals of Computer Science
 Useful Resources To Help When Self-Learning
 
 ### Learning Tips & Tricks
-- [Learning To Learn(Online Course $/Free)](https://www.coursera.org/learn/learning-how-to-learn) 
+- [Learning To Learn(Online Course $/Free)](https://www.coursera.org/learn/learning-how-to-learn)
 
 
 ## Useful Materials And Resources
- 
+
 List of resources to help in studying
 - [Trello](https://trello.com/home)
 - [Evernote](https://evernote.com)
@@ -77,7 +77,7 @@ List of resources to help in studying
 * [Twitter](https://careers.twitter.com/en.html)
 * [Unity](https://careers.unity.com)
 * [Snapchat](https://www.snap.com/en-US/jobs/)
-* [Instagram](https://www.instagram.com/about/jobs/) 
+* [Instagram](https://www.instagram.com/about/jobs/)
 
 ## Introduction To Programming
 
@@ -92,7 +92,7 @@ Learn fundamental programming concepts and build a strong programming foundation
 
 Understnad how the system works that you are writing code on
 
-- Great Ideas in Computer Architecture - [Lecture Notes](http://inst.eecs.berkeley.edu/~cs61c/sp15/), [Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_) 
+- Great Ideas in Computer Architecture - [Lecture Notes](http://inst.eecs.berkeley.edu/~cs61c/sp15/), [Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
 
 - Computer Organization and Design - [Buy On Amazon](https://www.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269?pldnSite=1)
 - C Programming Language - [Buy On Amazon](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/ref=sr_1_1?s=books&ie=UTF8&qid=1518908013&sr=1-1&keywords=c+programming+language)
@@ -104,31 +104,31 @@ Improve Your Problem Solving Skills and learn techniques to write well optimized
 
   - The Algorithm Design Manual - [Buy Book on Amazon](https://amzn.to/2MkzLRP)
   - Skiena's Algorithms Lectures - [Lecture Notes](https://bit.ly/2LWdRIJ), [Lecture Viedos](https://bit.ly/2a6UZQp)
-  
+
   #### Optional Courses
-    - Complete Java Masterclass *** - [Udemy Course(**$**)](https://www.udemy.com/java-the-complete-java-developer-course/)
-    - Data Structures and Algorithms in Python *** - [Buy Book On Amazon](https://amzn.to/2LS9ga5)
-    - Complete Python Bootcamp *** - [Udemy Course(**$**)](https://www.udemy.com/complete-python-bootcamp/)
-    - Grokking Algorithms *** - [Buy Book On Amazon](https://amzn.to/2Ku6AKe)
+  - Complete Java Masterclass - [Udemy Course(**$**)](https://www.udemy.com/java-the-complete-java-developer-course/)
+  - Data Structures and Algorithms in Python - [Buy Book On Amazon](https://amzn.to/2LS9ga5)
+  - Complete Python Bootcamp - [Udemy Course(**$**)](https://www.udemy.com/complete-python-bootcamp/)
+  - Grokking Algorithms - [Buy Book On Amazon](https://amzn.to/2Ku6AKe)
 
 ## Database
 Learn  how to create databases to store and manipulate data.
 
   - UC Berkeley CS 186 - [YouTube Playlist](https://bit.ly/2Mj1faF) , [Lecture Notes](https://sites.google.com/site/cs186spring2015/)
-  
+
   #### Optional Courses
-    - The Complete Database Design & Modeling Beginners Tutorial *** - [Udemy Course(**$**)](https://bit.ly/2Gu8qco)
-    - The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert *** - [Udemy Course(**$**)](https://bit.ly/2u0Xjmy)
-    - SQL - MySQL for Data Analytics and Business Intelligence *** - [Udemy Course(**$**)](https://bit.ly/2FxRdTE)
-    - The Complete Developers Guide to MongoDB *** - [Udemy Course(**$**)](https://bit.ly/2AgulEg)
-  
+  - The Complete Database Design & Modeling Beginners Tutorial - [Udemy Course(**$**)](https://bit.ly/2Gu8qco)
+  - The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - [Udemy Course(**$**)](https://bit.ly/2u0Xjmy)
+  - SQL - MySQL for Data Analytics and Business Intelligence - [Udemy Course(**$**)](https://bit.ly/2FxRdTE)
+  - The Complete Developers Guide to MongoDB - [Udemy Course(**$**)](https://bit.ly/2AgulEg)
+
 ## Networking
 
   - Introduction To Networking - [MOOC Stanford](https://stanford.io/1GXRYzS)
   - Computer Networking: A Top-Down Approach - [Buy Book On Amazon](https://amzn.to/2vju3Jz)
   - Computer Networks - [YouTube Playlist](https://m.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
 
-## Job Search Preparation 
+## Job Search Preparation
 
 Books and Resources to help in Technical Interview
 
@@ -147,8 +147,8 @@ All these resources are not recommended. Use different resources to get differen
    * Geeks For Geeks - [YouTube Channel](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ)
    * Tushar Roy - [YouTube Channel](https://www.youtube.com/user/tusharroy2525)
 
-##### System Design Interview Preparation 
-     
+##### System Design Interview Preparation
+
    - Grokking System Design - [Paid Course **$**](https://www.educative.io/collection/5668639101419520/5649050225344512)
    - System Design Tutorials- [YouTube Playlist](https://www.youtube.com/playlist?list=PL9xZ0ooLLYdYhosXzSLYOjIHVQLqtK8nX)
    - Gainlo Sytem Design Tutorials- [List Of Blog Posts](http://bit.ly/2HwbXbF)
@@ -161,11 +161,11 @@ All these resources are not recommended. Use different resources to get differen
    - [Code Fights](https://www.codefights.com/)
    - [Geek For Geeks(Algorithms Tutorials & Solutions)](https://www.geeksforgeeks.org)
 
-## Further Studying 
+## Further Studying
 
 ### Operating Systems
    * [Operating Systems by Gate Lectures ](http://bit.ly/2BDbPGQ)
-   * [UC Berkeley Computer Science 162 - Fall 2010](http://bit.ly/2BAAjAF) 
+   * [UC Berkeley Computer Science 162 - Fall 2010](http://bit.ly/2BAAjAF)
    * [CS162 Lecture Notes](http://bit.ly/2HtvtWn)
    * [Operating System Concept](http://amzn.to/2EOJFuB)
    * [Modern Operating Systems](http://amzn.to/2CvAERS)
@@ -191,4 +191,4 @@ All these resources are not recommended. Use different resources to get differen
   * [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 ### Data Science
-  * UC Berkeley Data 8 Summer 2018 [Lecture Notes](http://data8.org/su17/), [Lecture Videos](https://bit.ly/2LYZpyC) , [Projects & Assignments GitHub Repo](https://bit.ly/2vK5Ewj), [Computational and Inferential Thinking](https://bit.ly/2naa5fP)
+  * UC Berkeley Data 8 Summer 201 [Lecture Notes](http://data8.org/su17/), [Lecture Videos](https://bit.ly/2LYZpyC) , [Projects & Assignments GitHub Repo](https://bit.ly/2vK5Ewj), [Computational and Inferential Thinking](https://bit.ly/2naa5fP)
