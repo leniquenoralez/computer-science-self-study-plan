@@ -8,7 +8,7 @@ Computer Science Self Study Plan
 A guide to self learn the fundamentals of Computer Science
 
 ## My Current Progress
- ![Generic badge](https://img.shields.io/badge/Progress-2%25-32CD32.svg)
+ ![Generic badge](https://img.shields.io/badge/Progress-12%25-32CD32.svg)
  
 * [Detailed Progress](https://docs.google.com/spreadsheets/d/1HmN18NEuFJ1vD0LpfckzK1SGa0NrOGfv5HEPeUwleoM)
  
