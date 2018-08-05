@@ -105,14 +105,12 @@ Improve Your Problem Solving Skills and learn techniques to write well optimized
   - The Algorithm Design Manual - [Buy Book on Amazon](https://amzn.to/2MkzLRP)
   - Skiena's Algorithms Lectures - [Lecture Notes](https://bit.ly/2LWdRIJ), [Lecture Viedos](https://bit.ly/2a6UZQp)
 
-  #### Optional Courses
-  - Complete Java Masterclass - [Udemy Course(**$**)](https://www.udemy.com/java-the-complete-java-developer-course/)
+  #### Optional Resources
   - Data Structures and Algorithms in Python - [Buy Book On Amazon](https://amzn.to/2LS9ga5)
-  - Complete Python Bootcamp - [Udemy Course(**$**)](https://www.udemy.com/complete-python-bootcamp/)
   - Grokking Algorithms - [Buy Book On Amazon](https://amzn.to/2Ku6AKe)
 
 ## Database
-Learn  how to create databases to store and manipulate data.
+Learn how to store and manipulate data in databases.
 
   - UC Berkeley CS 186 - [YouTube Playlist](https://bit.ly/2Mj1faF) , [Lecture Notes](https://sites.google.com/site/cs186spring2015/)
 
