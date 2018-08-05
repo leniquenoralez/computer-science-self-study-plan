@@ -4,6 +4,9 @@ Computer Science Self Study Plan
 ![Computer Science Image](http://oi67.tinypic.com/98hvzk.jpg)
 
 > “Plan Your Work And Work Your Plan.” - Napoleon Hill
+
+A guide to self learn the fundamentals of Computer Science
+
 ## My Current Progress
  ![Generic badge](https://img.shields.io/badge/Progress-2%25-32CD32.svg)
  
@@ -42,26 +45,17 @@ Computer Science Self Study Plan
 
 ## Study Supplements
 
-List of blog posts, YouTube videos and online course that I’ll be using to improve my study.
+Useful Resources To Help When Self-Learning
 
 ### Learning Tips & Tricks
-- [Feynman Technique(Blog)](https://collegeinfogeek.com/feynman-technique/)
-- [Practice Testing Technique(Blog)](http://now.tufts.edu/news-releases/practice-testing-protects-memory-against-stress)
-- [Distributed Practice Technique(Blog)](http://www.keytostudy.com/distributed-practice/)
 - [Learning To Learn(Online Course $/Free)](https://www.coursera.org/learn/learning-how-to-learn) 
 
 
 ## Useful Materials And Resources
  
-List of resources to help in studying.
-
-- Notebooks
-- Index cards
+List of resources to help in studying
 - [Trello](https://trello.com/home)
 - [Evernote](https://evernote.com)
-- Pens (Multicolor)
-- Sketch Book
-- Whiterboard(If I Can find a decent affordable one)*
 
 ## Companies I Would like to Work With
 
@@ -87,12 +81,12 @@ List of resources to help in studying.
 
 ## Introduction To Programming
 
-Learn fundamental programming concepts and build a strong programming foundation.
+Learn fundamental programming concepts and build a strong programming foundation
 
-- [CS61A: Structure and Interpretation of Computer Programs - Fall 2017](http://inst.eecs.berkeley.edu/~cs61a/fa17/)
+- [CS61A: Structure and Interpretation of Computer Programs - Spring 2018](https://bit.ly/2Kr1VJi)
 
 - Composing Programs - [Free Online Book](http://composingprograms.com/)
-> This version of CS61A doesn't use the SICP book but it uses the online book Composing Programs wich is heavily based on SICP. It's a more "modern" version of SICP.
+
 
 ## Computer Architecture
 
@@ -103,9 +97,10 @@ Understnad how the system works that you are writing code on
 - Computer Organization and Design - [Buy On Amazon](https://www.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269?pldnSite=1)
 - C Programming Language - [Buy On Amazon](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/ref=sr_1_1?s=books&ie=UTF8&qid=1518908013&sr=1-1&keywords=c+programming+language)
 - The Datacenter as a Computer - [Online PDF](http://inst.eecs.berkeley.edu/~cs61c/resources/WSCBarrosoHolzle.pdf)
+
 ## Algorithms And Data Structures
 
-Improve problem solving skills and add more "tools" to roblem solving tool box. 
+Improve Your Problem Solving Skills and learn techniques to write well optimized code
 
   - The Algorithm Design Manual - [Buy Book on Amazon](https://amzn.to/2MkzLRP)
   - Skiena's Algorithms Lectures - [Lecture Notes](https://bit.ly/2LWdRIJ), [Lecture Viedos](https://bit.ly/2a6UZQp)
@@ -132,11 +127,15 @@ Learn  how to create databases to store and manipulate data.
   - Introduction To Networking - [MOOC Stanford](https://stanford.io/1GXRYzS)
   - Computer Networking: A Top-Down Approach - [Buy Book On Amazon](https://amzn.to/2vju3Jz)
   - Computer Networks - [YouTube Playlist](https://m.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
+
 ## Job Search Preparation 
 
 Books and Resources to help in Technical Interview
 
 ### Technical Interview Preparation Resources
+
+All these resources are not recommended. Use different resources to get different explanation on diffrent topics
+
    * Cracking the Coding Interview - [Buy Book On Amazon](http://amzn.to/2ob0rKF)
    * Programming Interviews Exposed - [Buy Book On Amazon](http://amzn.to/2HqV56a)
    * Elements of Programming Interviews in Python - [Buy Book On Amazon](http://amzn.to/2ECxJg6)
@@ -162,35 +161,10 @@ Books and Resources to help in Technical Interview
    - [Code Fights](https://www.codefights.com/)
    - [Geek For Geeks(Algorithms Tutorials & Solutions)](https://www.geeksforgeeks.org)
 
-### Non Technical Preparation 
-   * [How to Ace a Non-Technical Interview(Blog Post)](http://bit.ly/2GtYU9A)
-   * Get That Job! - [Buy Book On Amazon](http://amzn.to/2EDCbLE)
-   * [Easy Application](https://github.com/j-delaney/easy-application)
-
-##### Salary Negotiation Tips
-   * [Ten Rules for Negotiating a Job Offer](http://bit.ly/2mbLuGI)
-   * [How Not to Bomb Your Offer Negotiation](http://bit.ly/2Ht8hHG)
-   * [The Ultimate Guide To Salary Negotiation For Software Developers](http://bit.ly/2HuRwM8)
-
-##### Understanding Stock Options
-   * [Tips for Evaluating Stock Options in a Job Offer](http://bit.ly/2HtRGU1)
-   * [How to understand stock options in your job offer](http://mnstr.me/2fX8Mxe)
-   * [How do stock options work for Google employees?(Quora Question)](http://bit.ly/2Gq6KB2)
-   
-##### Resume Tips
-   * [This Is What A GOOD Resume Should Look Like](https://www.careercup.com/resume)
-   *  [An opinionated guide to writing developer resumes in 2017](http://bit.ly/2obHyHQ)
-
-##### Online Presence Tips
-   * [A Software Engineer’s One-Page Portfolio](http://bit.ly/2EDNYpc)
-   * [LinkedIn Profile Makeover for Developers](http://bit.ly/2EDotZ1)
-   * [How to Build a Killer LinkedIn Profile](http://bit.ly/2BEsDNR)
-   * [9 LinkedIn Profile Tips for New Developers](http://bit.ly/2eDes0q)
-
 ## Further Studying 
 
 ### Operating Systems
-   * [Operating Sytems by Gate Lectures ](http://bit.ly/2BDbPGQ)
+   * [Operating Systems by Gate Lectures ](http://bit.ly/2BDbPGQ)
    * [UC Berkeley Computer Science 162 - Fall 2010](http://bit.ly/2BAAjAF) 
    * [CS162 Lecture Notes](http://bit.ly/2HtvtWn)
    * [Operating System Concept](http://amzn.to/2EOJFuB)
@@ -210,3 +184,11 @@ Books and Resources to help in Technical Interview
    * [Language Implementation Patterns(Buy On Amazon)](http://amzn.to/2rLovbk)
    * [Compilers: Principles, Techniques, and Tools(Buy On Amazon)](http://amzn.to/2HrtXE6)
    * [Compilers(Stanford MOOC)](http://stanford.io/1qv2hVh)
+
+### Artificial Intelligence
+  * CS188 Intro to AI - [Lecture Notes](https://bit.ly/2KtbA1K), [Lecture Videos](https://bit.ly/25TQnXW)
+  * [Artificial Intelligence: A Modern Approach](https://amzn.to/2vBfQXO)
+  * [Machine Learning](https://www.coursera.org/learn/machine-learning)
+
+### Data Science
+  * UC Berkeley Data 8 Summer 2018 [Lecture Notes](http://data8.org/su17/), [Lecture Videos](https://bit.ly/2LYZpyC) , [Projects & Assignments GitHub Repo](https://bit.ly/2vK5Ewj), [Computational and Inferential Thinking](https://bit.ly/2naa5fP)
