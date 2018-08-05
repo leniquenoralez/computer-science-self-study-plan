@@ -44,21 +44,11 @@ Computer Science Self Study Plan
 
 List of blog posts, YouTube videos and online course that I’ll be using to improve my study.
 
-### Improve My Learning
+### Learning Tips & Tricks
 - [Feynman Technique(Blog)](https://collegeinfogeek.com/feynman-technique/)
 - [Practice Testing Technique(Blog)](http://now.tufts.edu/news-releases/practice-testing-protects-memory-against-stress)
 - [Distributed Practice Technique(Blog)](http://www.keytostudy.com/distributed-practice/)
 - [Learning To Learn(Online Course $/Free)](https://www.coursera.org/learn/learning-how-to-learn) 
-
-### Improve Note Taking
->”The Fainest Pen Is More Powerful Than The Strongest Memory” - Chinese Proverbs 
-
-- [How To Take Notes Like A Alpha-Geek(Blog)](https://tim.blog/2007/12/05/how-to-take-notes-like-an-alpha-geek-plus-my-2600-date-challenge/)
-- [5 Note Taking Methods(Blog)](https://www.oxfordlearning.com/5-effective-note-taking-methods/)
-- [**Cornell Note Taking Method(Blog)**](http://lsc.cornell.edu/notes.html)
-
-### Maximize Learning Potential
- - [Become A SuperLearner V2.5](https://www.udemy.com/become-a-superlearner-2-speed-reading-memory-accelerated-learning/)
 
 
 ## Useful Materials And Resources
@@ -106,11 +96,7 @@ Learn fundamental programming concepts and build a strong programming foundation
 
 ## Computer Architecture
 
-Understnad how a computer works on a lower level.
-
-- The Elements of Computing Systems: Building a Modern Computer from First Principles - [Purchase On Amazon](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=sr_1_1/136-8885206-6472227?ie=UTF8&qid=1518907200&sr=8-1&keywords=the+elements+of+computing+systems), [Online PDF](http://www.nand2tetris.org)
-
-- Nand To Tetris - [Part I](https://www.coursera.org/learn/build-a-computer), [Part II](https://www.coursera.org/learn/nand2tetris2)
+Understnad how the system works that you are writing code on
 
 - Great Ideas in Computer Architecture - [Lecture Notes](http://inst.eecs.berkeley.edu/~cs61c/sp15/), [Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_) 
 
@@ -121,31 +107,36 @@ Understnad how a computer works on a lower level.
 
 Improve problem solving skills and add more "tools" to roblem solving tool box. 
 
-  - Algorithms - [Buy Book on Amazon](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_3?ie=UTF8&qid=1518930701&sr=8-3&keywords=Algorithms), Video Course [Part 1](https://www.coursera.org/learn/algorithms-part1) & [Part 2](https://www.coursera.org/learn/algorithms-part2)
-  - Complete Java Masterclass - [Udemy Course(**$**)](https://www.udemy.com/java-the-complete-java-developer-course/)
-  - Data Structures and Algorithms in Python - [Buy Book On Amazon](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275)
-  - Complete Python Bootcamp - [Udemy Course(**$**)](https://www.udemy.com/complete-python-bootcamp/)
-  - Grokking Algorithms - [Buy Book On Amazon](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=pd_sim_14_4?_encoding=UTF8&pd_rd_i=1617292230&pd_rd_r=ZW1CDRZBHKF2KNVRWJPZ&pd_rd_w=C7bgd&pd_rd_wg=6QYlm&psc=1&refRID=ZW1CDRZBHKF2KNVRWJPZ)
+  - The Algorithm Design Manual - [Buy Book on Amazon](https://amzn.to/2MkzLRP)
+  - Skiena's Algorithms Lectures - [Lecture Notes](https://bit.ly/2LWdRIJ), [Lecture Viedos](https://bit.ly/2a6UZQp)
+  
+  ####Optional Courses
+    - Complete Java Masterclass *** - [Udemy Course(**$**)](https://www.udemy.com/java-the-complete-java-developer-course/)
+    - Data Structures and Algorithms in Python *** - [Buy Book On Amazon](https://amzn.to/2LS9ga5)
+    - Complete Python Bootcamp *** - [Udemy Course(**$**)](https://www.udemy.com/complete-python-bootcamp/)
+    - Grokking Algorithms *** - [Buy Book On Amazon](https://amzn.to/2Ku6AKe)
 
 ## Database
 Learn  how to create databases to store and manipulate data.
 
-  - UC Berkeley CS 186 - [YouTube Playlist](https://m.youtube.com/playlist?list=PLhMnuBfGeCDPtyC9kUf_hG_QwjYzZ0Am1) , [Internet Archive](https://archive.org/details/UCBerkeley_Course_Computer_Science_186), [Lecture Notes](https://sites.google.com/site/cs186spring2015/)
-  - The Complete Database Design & Modeling Beginners Tutorial - [Udemy Course(**$**)](https://www.udemy.com/the-complete-database-modeling-and-design-beginners-tutorial/)
-  - The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - [Udemy Course(**$**)](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
-  - SQL - MySQL for Data Analytics and Business Intelligence - [Udemy Course(**$**)](https://www.udemy.com/sql-mysql-for-data-analytics-and-business-intelligence/)
-  - The Complete Developers Guide to MongoDB - [Udemy Course(**$**)](https://www.udemy.com/the-complete-developers-guide-to-mongodb/)
+  - UC Berkeley CS 186 - [YouTube Playlist](https://bit.ly/2Mj1faF) , [Lecture Notes](https://sites.google.com/site/cs186spring2015/)
+  
+  ####Optional Courses
+    - The Complete Database Design & Modeling Beginners Tutorial *** - [Udemy Course(**$**)](https://bit.ly/2Gu8qco)
+    - The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert *** - [Udemy Course(**$**)](https://bit.ly/2u0Xjmy)
+    - SQL - MySQL for Data Analytics and Business Intelligence *** - [Udemy Course(**$**)](https://bit.ly/2FxRdTE)
+    - The Complete Developers Guide to MongoDB *** - [Udemy Course(**$**)](https://bit.ly/2AgulEg)
   
 ## Networking
 
-  - Introduction To Networking - [MOOC Stanford](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
-  - Computer Networking: A Top-Down Approach - [Buy Book On Amazon](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/ref=sr_1_1?ie=UTF8&qid=1518935078&sr=8-1&keywords=computer+networking)
+  - Introduction To Networking - [MOOC Stanford](https://stanford.io/1GXRYzS)
+  - Computer Networking: A Top-Down Approach - [Buy Book On Amazon](https://amzn.to/2vju3Jz)
   - Computer Networks - [YouTube Playlist](https://m.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
 ## Job Search Preparation 
 
-Books and Resources to help in job search process.
+Books and Resources to help in Technical Interview
 
-### Technical Interview Preparation 
+### Technical Interview Preparation Resources
    * Cracking the Coding Interview - [Buy Book On Amazon](http://amzn.to/2ob0rKF)
    * Programming Interviews Exposed - [Buy Book On Amazon](http://amzn.to/2HqV56a)
    * Elements of Programming Interviews in Python - [Buy Book On Amazon](http://amzn.to/2ECxJg6)
@@ -196,7 +187,7 @@ Books and Resources to help in job search process.
    * [How to Build a Killer LinkedIn Profile](http://bit.ly/2BEsDNR)
    * [9 LinkedIn Profile Tips for New Developers](http://bit.ly/2eDes0q)
 
-## Advance My Knowledge
+## Further Studying 
 
 ### Operating Systems
    * [Operating Sytems by Gate Lectures ](http://bit.ly/2BDbPGQ)
@@ -219,8 +210,3 @@ Books and Resources to help in job search process.
    * [Language Implementation Patterns(Buy On Amazon)](http://amzn.to/2rLovbk)
    * [Compilers: Principles, Techniques, and Tools(Buy On Amazon)](http://amzn.to/2HrtXE6)
    * [Compilers(Stanford MOOC)](http://stanford.io/1qv2hVh)
-
-
-
-
-
