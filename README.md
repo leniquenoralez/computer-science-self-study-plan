@@ -103,7 +103,7 @@ Understnad how the system works that you are writing code on
 Improve Your Problem Solving Skills and learn techniques to write well optimized code
 
   - The Algorithm Design Manual - [Buy Book on Amazon](https://amzn.to/2MkzLRP)
-  - Skiena's Algorithms Lectures - [Lecture Notes](https://bit.ly/2LWdRIJ), [Lecture Viedos](https://bit.ly/2a6UZQp)
+  - Skiena's Algorithms Lectures - [Lecture Notes](https://bit.ly/2Miw0zL), [Lecture Viedos](https://bit.ly/2MKtf74)
 
   #### Optional Resources
   - Data Structures and Algorithms in Python - [Buy Book On Amazon](https://amzn.to/2LS9ga5)
