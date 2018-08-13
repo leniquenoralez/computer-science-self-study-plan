@@ -189,4 +189,4 @@ All these resources are not recommended. Use different resources to get differen
   * [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 ### Data Science
-  * UC Berkeley Data 8 Summer 201 [Lecture Notes](http://data8.org/su17/), [Lecture Videos](https://bit.ly/2LYZpyC) , [Projects & Assignments GitHub Repo](https://bit.ly/2vK5Ewj), [Computational and Inferential Thinking](https://bit.ly/2naa5fP)
+  * UC Berkeley Data 8 Summer 2017 [Lecture Notes](http://data8.org/su17/), [Lecture Videos](https://bit.ly/2LYZpyC) , [Projects & Assignments GitHub Repo](https://bit.ly/2vK5Ewj), [Computational and Inferential Thinking](https://bit.ly/2naa5fP)
