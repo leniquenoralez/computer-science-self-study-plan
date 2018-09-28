@@ -5,7 +5,9 @@ Computer Science Self Study Plan
 
 > “Plan Your Work And Work Your Plan.” - Napoleon Hill
 
-A guide to self learn the fundamentals of Computer Science
+My personal guide to learning fundamental and advanced Computer Science subjects.  The purpose of this plan is to create a solid foundation as a Software Engineer. This repo will only include computer science learning material, I removed all the job searching and preparation material and will create a new repo for that. 
+
+The best way to get better at something is by working on projects and creating things. I'll be creating a repo that will have projects ideas based on different CS topics. It will have links to different material to help with projects. 
 
 ## My Current Progress
  ![Generic badge](https://img.shields.io/badge/Progress-12%25-32CD32.svg)
@@ -15,70 +17,19 @@ A guide to self learn the fundamentals of Computer Science
 ## Table Of Content
 
 * [My Current Progress](#my-current-progress)
-* [Study Supplements](#study-supplements)
-  - [Improve My Learning](#improve-my-learning)
-  - [Improve Note Taking](#improve-note-taking)
-  - [Maximize Learning Potential](#maximize-learning-potential)
-* [Useful Materials And Resources](#useful-materials-and-resources)
-* [Companies I Would like to Work With](#companies-i-would-like-to-work-with)
 * [Introduction To Programming](#introduction-to-programming)
 * [Computer Architecture](#computer-architecture)
 * [Algorithms And Data Structures](#algorithms-and-data-structures)
 * [Database](#database)
 * [Networking](#networking)
-* [Job Search Preparation](#job-search-preparation)
-  - [Technical Interview Preparation](#technical-interview-preparation)
-    + [System Design Interview Preparation](#system-design-interview-preparation)
-    + [Coding Challenge Site](#coding-challenge-site)
-  - [Non Technical Preparation](#non-technical-preparation)
-     + [Salary Negotiation Tips](#salary-negotiation-tips)
-     + [Understanding Stock Options](#understanding-stock-options)
-     + [Resume Tips](#resume-tips)
-     + [Online Presence Tips](#online-presence-tips)
-- [Advance My Knowledge](#advance-my-knowledge)
+* [Further Studying](#further-studying)
      + [Operating Systems](#operating-systems)
      + [Distributed Systems](#distributed-systems)
      + [Languages and Compilers](#languages-and-compilers)
+     + [Artificial Intelligence](#artificial-intelligence)
+     + [Data Science](#data-science)
 
 =========================================
-
-
-## Study Supplements
-
-Useful Resources To Help When Self-Learning
-
-### Learning Tips & Tricks
-- [Learning To Learn(Online Course $/Free)](https://www.coursera.org/learn/learning-how-to-learn)
-
-
-## Useful Materials And Resources
-
-List of resources to help in studying
-- [Trello](https://trello.com/home)
-- [Evernote](https://evernote.com)
-
-## Companies I Would like to Work With
-
-* [Spotify](https://www.spotifyjobs.com)
-* [Soundcloud](https://soundcloud.com/jobs)
-* [Serato](https://serato.com/jobs)
-* [Google](http://bit.ly/2CwrdBJ)
-* [Facebook](https://www.facebook.com/careers/)
-* [Digital Ocean](https://www.digitalocean.com/company/careers/)
-* [Hulu](https://www.hulu.com/jobs)
-* [Netflix](https://jobs.netflix.com)
-* [GitHub](https://github.com/about/careers)
-* [GitLab](https://about.gitlab.com/jobs/)
-* [Mozilla](https://careers.mozilla.org)
-* [Roku](https://www.roku.com/about/jobs)
-* [SeatGeek](https://seatgeek.com/jobs)
-* [ESPN](https://jobs.espncareers.com/technology)
-* [Shopify](https://www.shopify.com/careers)
-* [Twitter](https://careers.twitter.com/en.html)
-* [Unity](https://careers.unity.com)
-* [Snapchat](https://www.snap.com/en-US/jobs/)
-* [Instagram](https://www.instagram.com/about/jobs/)
-
 ## Introduction To Programming
 
 Learn fundamental programming concepts and build a strong programming foundation
@@ -126,38 +77,6 @@ Learn how to store and manipulate data in databases.
   - Computer Networking: A Top-Down Approach - [Buy Book On Amazon](https://amzn.to/2vju3Jz)
   - Computer Networks - [YouTube Playlist](https://m.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
 
-## Job Search Preparation
-
-Books and Resources to help in Technical Interview
-
-### Technical Interview Preparation Resources
-
-All these resources are not recommended. Use different resources to get different explanation on diffrent topics
-
-   * Cracking the Coding Interview - [Buy Book On Amazon](http://amzn.to/2ob0rKF)
-   * Programming Interviews Exposed - [Buy Book On Amazon](http://amzn.to/2HqV56a)
-   * Elements of Programming Interviews in Python - [Buy Book On Amazon](http://amzn.to/2ECxJg6)
-   * Elements of Programming Interviews in Java - [Buy Book On Amazon](http://amzn.to/2CvtNYz)
-   * Coder Rust 2.0 - [Paid Course **$**](http://bit.ly/1PMUTwk)
-   * Interview Cake - [Paid Course **$**](http://bit.ly/1rsc2kf)
-   * Hired In Tech - [Free Course](https://www.hiredintech.com)
-   * Python for Data Structures, Algorithms, and Interviews - [Udemy Course **$**](http://bit.ly/2C7ILrU)
-   * Geeks For Geeks - [YouTube Channel](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ)
-   * Tushar Roy - [YouTube Channel](https://www.youtube.com/user/tusharroy2525)
-
-##### System Design Interview Preparation
-
-   - Grokking System Design - [Paid Course **$**](https://www.educative.io/collection/5668639101419520/5649050225344512)
-   - System Design Tutorials- [YouTube Playlist](https://www.youtube.com/playlist?list=PL9xZ0ooLLYdYhosXzSLYOjIHVQLqtK8nX)
-   - Gainlo Sytem Design Tutorials- [List Of Blog Posts](http://bit.ly/2HwbXbF)
-   - [Top 10 System Design Interview Questions for Software Engineers](http://bit.ly/2hgv0KW)
-
-##### Coding Challenge Site
-   - [Hacker Rank](https://www.hackerrank.com/)
-   - [Leet Code](https://www.leetcode.com/)
-   - [Code Wars](https://www.codewars.com/)
-   - [Code Fights](https://www.codefights.com/)
-   - [Geek For Geeks(Algorithms Tutorials & Solutions)](https://www.geeksforgeeks.org)
 
 ## Further Studying
 
