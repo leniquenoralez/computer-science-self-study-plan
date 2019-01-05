@@ -25,7 +25,6 @@ The best way to get better at something is by working on projects and creating t
 * [Further Studying](#further-studying)
      + [Operating Systems](#operating-systems)
      + [Distributed Systems](#distributed-systems)
-     + [Languages and Compilers](#languages-and-compilers)
      + [Artificial Intelligence](#artificial-intelligence)
      + [Data Science](#data-science)
 
@@ -97,11 +96,6 @@ Learn how to store and manipulate data in databases.
    * [Distributed Systems - Fast Tech Skills](http://bit.ly/2EDAwBw)
    * [What is a distributed system?](http://bit.ly/2EDP5ZX)
    * Distributed Sytems - [Online PDF](http://bit.ly/2wQshO0), [Buy Book On Amazon](http://amzn.to/2sAcoOE)
-
-### Languages and Compilers
-   * [Language Implementation Patterns(Buy On Amazon)](http://amzn.to/2rLovbk)
-   * [Compilers: Principles, Techniques, and Tools(Buy On Amazon)](http://amzn.to/2HrtXE6)
-   * [Compilers(Stanford MOOC)](http://stanford.io/1qv2hVh)
 
 ### Artificial Intelligence
   * CS188 Intro to AI - [Lecture Notes](https://bit.ly/2KtbA1K), [Lecture Videos](https://bit.ly/25TQnXW)
