@@ -26,7 +26,7 @@ The best way to get better at something is by working on projects and creating t
      + [Operating Systems](#operating-systems)
      + [Distributed Systems](#distributed-systems)
      + [Artificial Intelligence](#artificial-intelligence)
-     + [Data Science](#data-science)
+     + [Machine Learning](#machine-learning)
 
 =========================================
 ## Introduction To Programming
@@ -102,5 +102,6 @@ Learn how to store and manipulate data in databases.
   * [Artificial Intelligence: A Modern Approach](https://amzn.to/2vBfQXO)
   * [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
-### Data Science
-  * UC Berkeley Data 8 Summer 2017 [Lecture Notes](http://data8.org/su17/), [Lecture Videos](https://bit.ly/2LYZpyC) , [Projects & Assignments GitHub Repo](https://bit.ly/2vK5Ewj), [Computational and Inferential Thinking](https://bit.ly/2naa5fP)
+### Machine Learning
+  * [Machine Learning By Stanford University on Coursera](https://www.coursera.org/learn/machine-learning)
+  * [Machine Learning A-Z™: Hands-On Python & R In Data Science on Udemy](https://www.udemy.com/machinelearning/)
