@@ -10,7 +10,7 @@ My personal guide to learning fundamental and advanced Computer Science subjects
 The best way to get better at something is by working on projects and creating things. I'll be creating a repo that will have projects ideas based on different CS topics. It will have links to different material to help with projects. 
 
 ## My Current Progress
- ![Generic badge](https://img.shields.io/badge/Progress-60.87%25-32CD32.svg)
+ ![Generic badge](https://img.shields.io/badge/Progress-72.87%25-32CD32.svg)
 
 * [Detailed Progress](https://docs.google.com/spreadsheets/d/1HmN18NEuFJ1vD0LpfckzK1SGa0NrOGfv5HEPeUwleoM)
 
@@ -63,13 +63,14 @@ Improve Your Problem Solving Skills and learn techniques to write well optimized
 ## Database
 Learn how to store and manipulate data in databases.
 
-  - UC Berkeley CS 186 - [YouTube Playlist](https://bit.ly/2Mj1faF) , [Lecture Notes](https://sites.google.com/site/cs186spring2015/)
+  - CMU 15-445/645 - Database Systems - [YouTube Playlist](https://www.youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7) , [Lecture Notes](https://15445.courses.cs.cmu.edu/fall2018/)
 
   #### Optional Courses
-  - The Complete Database Design & Modeling Beginners Tutorial - [Udemy Course(**$**)](https://bit.ly/2Gu8qco)
-  - The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - [Udemy Course(**$**)](https://bit.ly/2u0Xjmy)
-  - SQL - MySQL for Data Analytics and Business Intelligence - [Udemy Course(**$**)](https://bit.ly/2FxRdTE)
-  - The Complete Developers Guide to MongoDB - [Udemy Course(**$**)](https://bit.ly/2AgulEg)
+  - [SQL - Full course for beginners (YouTube Video)](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+  - [SQL Crash Course - Beginner to Intermediate (YouTube Video)](https://www.youtube.com/watch?v=nWeW3sCmD2k)
+  - [An Introduction To NoSQL Databases (YouTube Video)](https://www.youtube.com/watch?v=uD3p_rZPBUQ)
+  - [NoSQL Tutorial for Beginners (YouTube Video)](https://www.youtube.com/watch?v=2yQ9TGFpDuM)
+  - [MongoDB Complete Introduction & Summary(YouTube Video)](https://www.youtube.com/watch?v=VELru-FCWDM)
 
 ## Networking
 
