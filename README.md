@@ -16,11 +16,8 @@ The best way to improve as a software developer is to work on projects. You can 
 - [Algorithms And Data Structures](#algorithms-and-data-structures)
 - [Database](#database)
 - [Networking](#networking)
-- [Further Studying](#further-studying)
-  - [Operating Systems](#operating-systems)
-  - [Distributed Systems](#distributed-systems)
-  - [Artificial Intelligence](#artificial-intelligence)
-  - [Machine Learning](#machine-learning)
+- [Operating Systems](#operating-systems)
+- [Distributed Systems](/distributed-systems/introduction.md)
 
 =========================================
 
@@ -72,8 +69,6 @@ Learn how to store and manipulate data stored in databases.
 - Computer Networking: A Top-Down Approach - [Buy Book On Amazon](https://amzn.to/2vju3Jz)
 - Computer Networks - [YouTube Playlist](https://m.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
 
-## Further Studying
-
 ### Operating Systems
 
 - [Operating Systems by Gate Lectures ](http://bit.ly/2BDbPGQ)
@@ -83,23 +78,3 @@ Learn how to store and manipulate data stored in databases.
 - [Modern Operating Systems](http://amzn.to/2CvAERS)
 - [Operating Systems: Three Easy Pieces(Online PDF)](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Operating Systems: Principles and Practice](http://amzn.to/2ommQEq)
-
-### Distributed Systems
-
-- [Distributed Systems Definition](https://m.youtube.com/watch?v=nH9uwoyczFc)
-- [Introduction to Distributed Systems Design](http://bit.ly/13KaEko)
-- [Distributed Systems In One Lesson](http://bit.ly/2sJA3MU)
-- [Distributed Systems - Fast Tech Skills](http://bit.ly/2EDAwBw)
-- [What is a distributed system?](http://bit.ly/2EDP5ZX)
-- Distributed Systems - [Online PDF](http://bit.ly/2wQshO0), [Buy Book On Amazon](http://amzn.to/2sAcoOE)
-
-### Artificial Intelligence
-
-- CS188 Intro to AI - [Lecture Notes](https://bit.ly/2KtbA1K), [Lecture Videos](https://bit.ly/25TQnXW)
-- [Artificial Intelligence: A Modern Approach](https://amzn.to/2vBfQXO)
-- [Machine Learning](https://www.coursera.org/learn/machine-learning)
-
-### Machine Learning
-
-- [Machine Learning By Stanford University on Coursera](https://www.coursera.org/learn/machine-learning)
-- [Machine Learning A-Z™: Hands-On Python & R In Data Science on Udemy](https://www.udemy.com/machinelearning/)
