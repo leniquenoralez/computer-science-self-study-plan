@@ -2,31 +2,31 @@
 
 ## Table Of Contents
 
+1. What is a Distributed System?
+
+2. Why build distributed systems?
+
+3. How to properly order events in distributed systems (Time, Clocks and Event Ordering)?
+
+4. How nodes communicate in distributed systems?
+
+5. How maintain a copy of the same data on multiple nodes (Replication)?
+
+6. How can multiple nodes agree on a value (Consensus)?
+
+7. How do we keep copies consistent (Replica Consistent)?
+
+8. How do distributed systems fail and how to handle failure (Fault Tolerance)?
+
+9. How to manage the growth of distributed systems?
+
+10. How to secure distributed systems?
+
+11. How to measure reliability and performance of distributed systems?
+
+12. Building a distributed Key-Value store
+
 ## Learning Resources
-
-What is a Distributed System?
-
-Why build distributed systems?
-
-How to properly order events in distributed systems (Time, Clocks and Event Ordering)?
-
-How nodes communicate in distributed systems?
-
-How maintain a copy of the same data on multiple nodes (Replication)?
-
-How can multiple nodes agree on a value (Consensus)?
-
-How do we keep copies consistent (Replica Consistent)?
-
-How do distributed systems fail and how to handle failure (Fault Tolerance)?
-
-How to manage the growth of distributed systems?
-
-How to secure distributed systems?
-
-How to measure reliability and performance of distributed systems?
-
-Building a distributed Key-Value store
 
 ### Books
 
