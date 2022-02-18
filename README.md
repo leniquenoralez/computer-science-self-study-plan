@@ -32,7 +32,7 @@ Understand how the system works that you are writing code on
 - C Programming Language - [Buy On Amazon](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/ref=sr_1_1?s=books&ie=UTF8&qid=1518908013&sr=1-1&keywords=c+programming+language)
 - The Data center as a Computer - [Online PDF](http://inst.eecs.berkeley.edu/~cs61c/resources/WSCBarrosoHolzle.pdf)
 
-### Distributed Systems
+## Distributed Systems
 
 [Personal Notes](https://github.com/leniquenoralez/distributed-systems-notes)
 
