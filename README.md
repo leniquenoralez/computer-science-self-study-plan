@@ -2,22 +2,17 @@
 
 ![Computer Science Image](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/09/bUcvrRc-1-796x398.jpg)
 
-> “Plan Your Work And Work Your Plan.” - Napoleon Hill
-
-My personal guide to learning fundamental and advanced Computer Science subjects. The purpose of this plan is to create a solid foundation as a Software Engineer. This repo only includes computer science learning material. It previously contained materials to help with job interview preparation but I removed all them.
-
-The best way to improve as a software developer is to work on projects. You can view [this repo](https://github.com/leniquenoralez/awsome-software-development-projects) that I'll be updating with great project ideas to apply your skills to improve as a developer.
+This repository is list of resources I use to learn fundamental computer science topics.
 
 ## Table Of Content
 
-- [My Current Progress](#my-current-progress)
 - [Introduction To Programming](#introduction-to-programming)
 - [Computer Architecture](#computer-architecture)
+- [Distributed Systems](#distributed-systems)
 - [Algorithms And Data Structures](#algorithms-and-data-structures)
 - [Database](#database)
 - [Networking](#networking)
 - [Operating Systems](#operating-systems)
-- [Distributed Systems](/distributed-systems/introduction.md)
 
 =========================================
 
@@ -36,6 +31,27 @@ Understand how the system works that you are writing code on
 - Computer Organization and Design - [Buy On Amazon](https://www.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269?pldnSite=1)
 - C Programming Language - [Buy On Amazon](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/ref=sr_1_1?s=books&ie=UTF8&qid=1518908013&sr=1-1&keywords=c+programming+language)
 - The Data center as a Computer - [Online PDF](http://inst.eecs.berkeley.edu/~cs61c/resources/WSCBarrosoHolzle.pdf)
+
+### Distributed Systems
+
+[Personal Notes](https://github.com/leniquenoralez/distributed-systems-notes)
+
+#### Books
+
+- [Designing Data-Intensive Applications](https://amzn.to/3AjOHJG)
+- [Understanding Distributed Systems](https://amzn.to/3KuTDjH)
+- [Distributed systems for fun and profit](http://book.mixu.net/distsys/)
+- [Distributed Systems](https://amzn.to/3qQ139f)
+- [A brief introduction to distributed systems](https://link.springer.com/content/pdf/10.1007%2Fs00607-016-0508-7.pdf)
+- [From Layman To Superman Distributed Systems An Introduction](https://medium.com/coinmonks/from-layman-to-superman-distributed-systems-an-introduction-ef972cedaaba)
+
+#### Videos
+
+- [CSE138 (Distributed Systems)](https://bit.ly/352uPze)
+- [Distributed Systems In One Lesson](https://bit.ly/3IsazWo)
+- [Distributed Systems - Fast Tech Skills](http://bit.ly/2EDAwBw)
+- [Distributed System by distributedsystemscourse.com](https://bit.ly/3nP0L0K)
+- [Distributed Systems - Martin Kleppmann](https://bit.ly/3An8vfn)
 
 ## Algorithms And Data Structures
 
