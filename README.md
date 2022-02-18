@@ -2,7 +2,7 @@
 
 ![Computer Science Image](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/09/bUcvrRc-1-796x398.jpg)
 
-This repository is list of resources I use to learn fundamental computer science topics.
+This repository is a list of resources I use to learn fundamental computer science topics.
 
 ## Table Of Content
 
